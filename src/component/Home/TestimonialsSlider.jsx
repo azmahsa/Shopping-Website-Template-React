@@ -7,9 +7,9 @@ import "swiper/css/pagination";
 //import required moduules
 import { Pagination } from "swiper/modules";
 //import image
-import commentimg1 from "../../assets/commentimg1.png"
-import commentimg2 from "../../assets/commentimg2.png"
-import commentimg3 from "../../assets/commentimg1.png"
+import commentimg1 from "../../assets/imagec1.png"
+import commentimg2 from "../../assets/imagec1.png"
+import commentimg3 from "../../assets/imagec1.png"
 
 
 import { IoStar } from "react-icons/io5";
