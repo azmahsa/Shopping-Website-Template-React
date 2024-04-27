@@ -19,7 +19,7 @@ const Categories = () => {
             <div class="w-16 h-1 rounded-full bg-black inline-flex"></div>
           </div>
         </div>
-        <div className="h-[750px] w-full bg-slate-200">
+        <div className="w-full bg-slate-200 pb-14">
           <div className=" flex flex-wrap md:flex-row  justify-center md:items-start items-center md:gap-28 gap-10 ">
             <div className=" flex flex-col  items-center gap-4 font-bold">
               <img
@@ -31,7 +31,7 @@ const Categories = () => {
             </div>
             <div className=" flex flex-col  items-center gap-4 font-bold">
               <img
-                className="md:w-[300px] md:h-[450px] w-[200px] h-[200px] rounded-2xl md:mt-7"
+                className="md:w-[300px] md:h-[450px] w-[200px] h-[200px] rounded-2xl "
                 src={imageCat2}
                 alt=""
               />
